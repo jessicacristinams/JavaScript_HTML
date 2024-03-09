@@ -1,1 +1,1 @@
-Este repositório contém exercícios de fixação em JavaScript e HTML.
+Este repositório contém exercícios de fixação de JavaScript e HTML.
