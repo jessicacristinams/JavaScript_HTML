@@ -5,5 +5,5 @@ var readline = require("readline-sync");
 var temp = readline.questionFloat("Digite a temperatura em Celsius: ");
 
 
-converteTemp = ((temp * 9/5) + 32);
+var converteTemp = ((temp * 9/5) + 32);
 console.log(converteTemp);

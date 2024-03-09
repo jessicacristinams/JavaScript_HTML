@@ -8,8 +8,8 @@ var numero2 = readline.question("Digite outro número inteiro: ");
 numero2 = parseInt(numero2);
 
 if ((numero1 >=0 && numero2 >=0)) {
-    soma = (numero1 + numero2);
-    console.log(soma);
+    var soma = (numero1 + numero2);
+    console.log("A soma é: " + soma);
 } else {
     console.log("\n Número inválido!")
 }
